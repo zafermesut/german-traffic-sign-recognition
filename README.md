@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-![App Screenshot](screenshots/1.jpeg)
+<img src="screenshots/1.jpeg" width="250" />
+<img src="screenshots/2.jpeg" width="250" />
+<img src="screenshots/3.jpeg" width="250" />
+<img src="screenshots/4.jpeg" width="250" />
 
-![App Screenshot](screenshots/2.jpeg)
-
-![App Screenshot](screenshots/3.jpeg)
 
 ## Overview
 
