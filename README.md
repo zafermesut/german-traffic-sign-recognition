@@ -22,7 +22,7 @@ The model utilizes deep learning techniques to classify traffic signs based on t
 
 ### Web Application
 
-The trained model is deployed as a web application using Streamlit. The app is hosted on Hugging Face Spaces, providing an interactive interface for users to upload images of traffic signs and receive predictions.
+The trained model is deployed as a web application using Streamlit. The app is hosted on [Hugging Face Spaces](https://huggingface.co/spaces/zafermbilen/german-traffic-sign-recognition), providing an interactive interface for users to upload images of traffic signs and receive predictions.
 
 ### Mobile Application
 
