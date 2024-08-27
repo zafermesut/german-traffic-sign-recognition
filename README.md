@@ -2,11 +2,9 @@
 
 ## Screenshots
 
-<img src="screenshots/1.jpeg" width="250" />
-<img src="screenshots/2.jpeg" width="250" />
-<img src="screenshots/3.jpeg" width="250" />
-<img src="screenshots/4.jpeg" width="250" />
-
+| ![Screenshot 1](screenshots/1.jpeg) | ![Screenshot 2](screenshots/2.jpeg) |
+| :---------------------------------: | :---------------------------------: |
+| ![Screenshot 3](screenshots/3.jpeg) | ![Screenshot 4](screenshots/4.jpeg) |
 
 ## Overview
 
